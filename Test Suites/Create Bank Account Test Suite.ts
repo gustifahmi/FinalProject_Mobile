@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Create Bank Account Test Suite</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>10</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2b42b3dc-a9e0-4019-969c-238cd0c226a5</testSuiteGuid>
+   <testCaseLink>
+      <guid>873f8ece-29ba-47ac-8595-4704cb0c249c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Create Bank Account/Create Bank Account - Blank Account Name</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>1696eaa6-a2e4-46bb-9416-0af81597f65a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c2195c76-6cdf-423c-bf47-28f681e78f17</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b4cb2ef1-142b-40ae-8757-63678bfac04d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Create Bank Account/Create Bank Account - Duplicate Account Name</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>35bfbfe2-230b-4d2f-a0c1-2f966e605fc6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ebe87bb9-68a8-4508-bcac-f388ae9a7142</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b0dbfdfc-a56a-420a-9c3a-03df87ca5531</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Create Bank Account/Create Bank Account - Success</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>51463879-2c67-4210-a39c-dfa6f7a01aea</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5885cc1c-458a-4eaf-9b71-306c0c626ea4</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

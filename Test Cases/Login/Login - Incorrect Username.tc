@@ -9,36 +9,6 @@
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>9b282623-804f-4ed2-838a-01b76360e194</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>06f67147-f32d-45be-b879-d60a645e8396</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>b87dcf1c-1b5c-4816-8665-dc0ad17872b9</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>ed047dcb-7bb6-4fd7-b276-7e2c8b773356</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>b11d5142-5cb5-4fe1-805d-d03d78f80192</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
       <variableId>3f76e526-526e-47a5-9310-b01b7d9d18dc</variableId>
    </variableLinks>
    <variableLinks>
@@ -47,41 +17,6 @@
       <value></value>
       <variableId>df398064-4745-4c71-97dd-5669bd8363e6</variableId>
    </variableLinks>
-   <variable>
-      <defaultValue>'Trafalgar'</defaultValue>
-      <description></description>
-      <id>9b282623-804f-4ed2-838a-01b76360e194</id>
-      <masked>false</masked>
-      <name>firstname</name>
-   </variable>
-   <variable>
-      <defaultValue>'Law'</defaultValue>
-      <description></description>
-      <id>06f67147-f32d-45be-b879-d60a645e8396</id>
-      <masked>false</masked>
-      <name>lastname</name>
-   </variable>
-   <variable>
-      <defaultValue>'Indonesia'</defaultValue>
-      <description></description>
-      <id>b87dcf1c-1b5c-4816-8665-dc0ad17872b9</id>
-      <masked>false</masked>
-      <name>country</name>
-   </variable>
-   <variable>
-      <defaultValue>'tesuser'</defaultValue>
-      <description></description>
-      <id>ed047dcb-7bb6-4fd7-b276-7e2c8b773356</id>
-      <masked>false</masked>
-      <name>username</name>
-   </variable>
-   <variable>
-      <defaultValue>'password123'</defaultValue>
-      <description></description>
-      <id>b11d5142-5cb5-4fe1-805d-d03d78f80192</id>
-      <masked>false</masked>
-      <name>password</name>
-   </variable>
    <variable>
       <defaultValue>'wrongusername'</defaultValue>
       <description></description>

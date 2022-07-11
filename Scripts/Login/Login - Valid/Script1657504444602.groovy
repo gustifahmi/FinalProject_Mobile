@@ -26,17 +26,17 @@ Mobile.tap(findTestObject('Login Page/Button - Create a Profile'), 0)
 
 Mobile.waitForElementPresent(findTestObject('Create Profile/Page Title - Create Profile'), 0)
 
-Mobile.setText(findTestObject('Create Profile/Input - First Name'), firstname, 0)
+Mobile.setText(findTestObject('Create Profile/Input - First Name'), GlobalVariable.firstname, 0)
 
-Mobile.setText(findTestObject('Create Profile/Input - Last Name'), lastname, 0)
+Mobile.setText(findTestObject('Create Profile/Input - Last Name'), GlobalVariable.lastname, 0)
 
-Mobile.setText(findTestObject('Create Profile/Input - Country'), country, 0)
+Mobile.setText(findTestObject('Create Profile/Input - Country'), GlobalVariable.country, 0)
 
-Mobile.setText(findTestObject('Create Profile/Input - Username'), username, 0)
+Mobile.setText(findTestObject('Create Profile/Input - Username'), GlobalVariable.username, 0)
 
-Mobile.setText(findTestObject('Create Profile/Input - Password'), password, 0)
+Mobile.setText(findTestObject('Create Profile/Input - Password'), GlobalVariable.password, 0)
 
-Mobile.setText(findTestObject('Create Profile/Input - Confirm Password'), password, 0)
+Mobile.setText(findTestObject('Create Profile/Input - Confirm Password'), GlobalVariable.password, 0)
 
 Mobile.tap(findTestObject('Create Profile/Button - Create Profile'), 0)
 

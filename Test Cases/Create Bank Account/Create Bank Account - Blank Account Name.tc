@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create Account - Success</name>
+   <name>Create Bank Account - Blank Account Name</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>fafbfd94-693f-441c-87bb-53da70c99c4e</testCaseGuid>
+   <testCaseGuid>59ee2633-24c7-4851-bcf8-4dd8b0de218c</testCaseGuid>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>51463879-2c67-4210-a39c-dfa6f7a01aea</variableId>
+      <variableId>1696eaa6-a2e4-46bb-9416-0af81597f65a</variableId>
    </variableLinks>
    <variableLinks>
       <testDataLinkId></testDataLinkId>
       <type>DEFAULT</type>
       <value></value>
-      <variableId>5885cc1c-458a-4eaf-9b71-306c0c626ea4</variableId>
+      <variableId>c2195c76-6cdf-423c-bf47-28f681e78f17</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'tesaccount'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
-      <id>51463879-2c67-4210-a39c-dfa6f7a01aea</id>
+      <id>1696eaa6-a2e4-46bb-9416-0af81597f65a</id>
       <masked>false</masked>
       <name>account_name</name>
    </variable>
    <variable>
       <defaultValue>'1000'</defaultValue>
       <description></description>
-      <id>5885cc1c-458a-4eaf-9b71-306c0c626ea4</id>
+      <id>c2195c76-6cdf-423c-bf47-28f681e78f17</id>
       <masked>false</masked>
       <name>balance</name>
    </variable>

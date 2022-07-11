@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Create Account - Duplicate Account Name</name>
+   <name>Create Bank Account - Duplicate Account Name</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>7096cb8d-916f-41ee-a9fe-976fb740cf56</testCaseGuid>

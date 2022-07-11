@@ -42,9 +42,13 @@ Mobile.tap(findTestObject('Create Profile/Button - Create Profile'), 0)
 
 Mobile.waitForElementPresent(findTestObject('Login Page/Page Title - Bank App Demo'), 0)
 
+Mobile.setText(findTestObject('Login Page/Input - Username (tesuser)'), username_test, 0)
+
+Mobile.setText(findTestObject('Login Page/Input - Password (password123)'), password_test, 0)
+
 Mobile.tap(findTestObject('Login Page/Button - Login'), 0)
 
-Mobile.verifyElementVisible(findTestObject('Login Page/Alert - Incorrect Username or Password'), 0)
+Mobile.verifyElementNotVisible(findTestObject('Dashboard/Page Title - Dashboard'), 5)
 
 Mobile.closeApplication()
 

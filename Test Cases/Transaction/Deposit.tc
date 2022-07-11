@@ -29,6 +29,12 @@
       <value></value>
       <variableId>7c3e8976-21be-46ea-8f42-8774a3867ed4</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>220dd7d8-5e2c-40c1-9898-049c1a602ba1</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'tesacc1'</defaultValue>
       <description></description>
@@ -56,5 +62,12 @@
       <id>7c3e8976-21be-46ea-8f42-8774a3867ed4</id>
       <masked>false</masked>
       <name>account2_balance</name>
+   </variable>
+   <variable>
+      <defaultValue>2200</defaultValue>
+      <description></description>
+      <id>220dd7d8-5e2c-40c1-9898-049c1a602ba1</id>
+      <masked>false</masked>
+      <name>max_limit</name>
    </variable>
 </TestCaseEntity>

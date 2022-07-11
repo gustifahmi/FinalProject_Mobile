@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Transaction</name>
+   <name>Transaction Test Suite</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -41,6 +41,12 @@
          <value></value>
          <variableId>7c3e8976-21be-46ea-8f42-8774a3867ed4</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>220dd7d8-5e2c-40c1-9898-049c1a602ba1</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>7d2b407a-bec9-4aa9-9e32-0f91f00b32fe</guid>
@@ -72,6 +78,12 @@
          <value></value>
          <variableId>2d493e9b-c7a0-4f59-8fbb-e59c95fdeee1</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c86d1fb7-09f9-4709-9924-42e32ed15d45</variableId>
+      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>115a8fb4-121d-4933-b12b-4245fb8ac5ea</guid>
@@ -102,6 +114,12 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>d5306157-b604-4eb5-b100-e74e7cce0aed</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5fad9b82-75bd-4551-93df-55b989b8c8b7</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

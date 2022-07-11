@@ -29,6 +29,12 @@
       <value></value>
       <variableId>d5306157-b604-4eb5-b100-e74e7cce0aed</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5fad9b82-75bd-4551-93df-55b989b8c8b7</variableId>
+   </variableLinks>
    <variable>
       <defaultValue>'tesacc1'</defaultValue>
       <description></description>
@@ -56,5 +62,12 @@
       <id>d5306157-b604-4eb5-b100-e74e7cce0aed</id>
       <masked>false</masked>
       <name>account2_balance</name>
+   </variable>
+   <variable>
+      <defaultValue>false</defaultValue>
+      <description></description>
+      <id>5fad9b82-75bd-4551-93df-55b989b8c8b7</id>
+      <masked>false</masked>
+      <name>acc1_as_sender</name>
    </variable>
 </TestCaseEntity>

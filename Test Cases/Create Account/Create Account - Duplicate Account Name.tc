@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create Account - Duplicate Account Name</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7096cb8d-916f-41ee-a9fe-976fb740cf56</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>35bfbfe2-230b-4d2f-a0c1-2f966e605fc6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ebe87bb9-68a8-4508-bcac-f388ae9a7142</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'tesaccount'</defaultValue>
+      <description></description>
+      <id>35bfbfe2-230b-4d2f-a0c1-2f966e605fc6</id>
+      <masked>false</masked>
+      <name>account_name</name>
+   </variable>
+   <variable>
+      <defaultValue>'1000'</defaultValue>
+      <description></description>
+      <id>ebe87bb9-68a8-4508-bcac-f388ae9a7142</id>
+      <masked>false</masked>
+      <name>balance</name>
+   </variable>
+</TestCaseEntity>

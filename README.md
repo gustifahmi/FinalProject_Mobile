@@ -4,7 +4,7 @@ Nama: Gusti Fahmi Fadhila
 Kode Peserta: KSAT006ONL012
 
 ## Test Case
-Tes yang dilakukan pada assignment isi antara lain:
+Tes yang dilakukan pada project ini antara lain:
 
 ### 1. Login
    Terdapat 5 test case untuk login. Untuk semua test case akan diawali dengan create profile. Lima test case tersebut antara lain:

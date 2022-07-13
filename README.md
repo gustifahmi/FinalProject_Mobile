@@ -51,7 +51,7 @@ Tes yang dilakukan pada assignment isi antara lain:
       Verify:  
       - Verify Element Text, Object: Text - Account 1 Name = "tesaccount"
       - Verify Element Text, Object: Text - Account 1 Balance = "Account balance: $1000.00"
-      - Verify Element Text, Object: Text - Account 1 Number = "Account no: A1"
+      - Verify Element Text, Object: Text - Account 1 Number = "Account no: A1"  
       Artinya data akun sesuai dengan yang diinput.  
 
    3) Create Bank Account - Duplicate Account Name
@@ -83,7 +83,7 @@ Tes yang dilakukan pada assignment isi antara lain:
       Verify jika tesacc1 melakukan transfer ke tesacc2: 
       - Verify Element Text, Object: Text - Account 1 Balance (500)
       - Verify Element Text, Object: Text - Account 2 Balance (2500)
-      
+
       Verify jika tesacc2 melakukan transfer ke tesacc1: 
       - Verify Element Text, Object: Text - Account 1 Balance (1500)
       - Verify Element Text, Object: Text - Account 2 Balance (1500)

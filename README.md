@@ -1,5 +1,8 @@
 # FinalProject_Mobile
 
+Nama: Gusti Fahmi Fadhila  
+Kode Peserta: KSAT006ONL012
+
 ## Test Case
 Tes yang dilakukan pada assignment isi antara lain:
 
